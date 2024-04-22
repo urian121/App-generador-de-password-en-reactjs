@@ -1,8 +1,16 @@
-# React + Vite
+# Generador de contraseñas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##### El Generador de Contraseñas es una aplicación desarrollada con React que te permite crear contraseñas seguras de hasta 32 caracteres de longitud. Utilizando tecnologías como useRef, useState, useEffect y react-toastify, esta herramienta te ofrece una forma fácil y segura de generar contraseñas que incluyen una combinación de letras minúsculas, mayúsculas, símbolos y números. ¡Protege tus cuentas en línea con contraseñas fuertes y aleatorias generadas al instante!
 
-Currently, two official plugins are available:
+### Resultado final
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/Tienda-Online-de-Guitarras-carrito.png)
+
+### Expresiones de Gratitud 🎁
+
+    Comenta a otros sobre este proyecto 📢
+    Invita una cerveza 🍺 o un café ☕
+    Paypal iamdeveloper86@gmail.com
+    Da las gracias públicamente 🤓.
+
+## No olvides SUSCRIBIRTE 👍

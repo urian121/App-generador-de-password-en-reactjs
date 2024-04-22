@@ -1,5 +1,7 @@
 import { useRef, useState, useEffect } from "react";
 
+import { toast } from "react-toastify";
+
 function PasswordGenerator({ defaultLength = 16 }) {
   const [password, setPassword] = useState(generateRandomPassword(defaultLength));
   const [length, setLength] = useState(defaultLength);
@@ -54,6 +56,7 @@ function PasswordGenerator({ defaultLength = 16 }) {
 
   const copyToClipboard = () => {
     navigator.clipboard.writeText(password);
+    toast.success("Contraseña copiada al portapapeles");
   };
 
   return (
