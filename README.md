@@ -4,7 +4,7 @@
 
 ### Resultado final
 
-![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/Tienda-Online-de-Guitarras-carrito.png)
+![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/generador-clave-con-react.png)
 
 ### Expresiones de Gratitud 🎁
 
